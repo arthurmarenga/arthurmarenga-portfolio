@@ -2,9 +2,9 @@
 
 # 💻 Meu Portfólio Profissional - Arthur Marenga
 
-Este é o repositório do meu portfólio profissional e pessoal, desenvolvido como estudante do primeiro período de **Ciência da Computação na CESAR School**. O objetivo deste projeto é consolidar meus conhecimentos em desenvolvimento web (Front-end) e servir como uma vitrine para os meus futuros projetos acadêmicos e profissionais.
+Este é o repositório do meu portfólio profissional e pessoal, desenvolvido como estudante do primeiro período de **Ciência da Computação na CESAR School**. O grande e principal objetivo deste projeto é consolidar meus conhecimentos em desenvolvimento web (Front-end) e servir como uma vitrine para os meus futuros projetos acadêmicos e profissionais. 🎯
 
-🚀 **Link do projeto online:** *?*
+🌐 **Link do projeto online:** *?*
 
 ---
 
@@ -30,6 +30,28 @@ Este é o repositório do meu portfólio profissional e pessoal, desenvolvido co
 
 ---
 
+##Histórico de Versões:
+
+###🟠 Versão 1.0.0 - Estrutura Base:
+
+- **`feat: estrutura inicial e páginas base`**: Criação dos arquivos HTML fundamentais (`index.html`, `sobreeu.html`, `projetosmeus.html`) estabelecendo a navegação do menu global.
+  
+- **`feat: estilização responsiva e identidade visual`**: Desenvolvimento do arquivo `style.css`, configurando o reset de margens, layout flexível (Flexbox) para o cabeçalho e o rodapé além da paleta de cores padrão.
+
+###🟠 Versão 1.1.0 - Interatividade e Temas:
+
+- **`feat: implementação do dark mode e persistência`**: Inclusão da lógica em JavaScript (`script.js`) para alternar as classes de tema visual e salvar a preferência do usuário no `localStorage` do navegador.
+  
+- **`feat: saudação inteligente baseada no horário`**: Adicionado script na Home que lê o horário local do sistema para saudar o visitante dinamicamente (Bom dia/Boa tarde/Boa noite).
+
+###🟠 Versão 1.2.0 - Refatoração Semântica e Ajustes Finais:
+
+- **`fix: validação oficial W3C e eliminação de erros`**: Correção de inconformidades apontadas pelo *Markup Validation Service* na página Sobre Mim. Remoção do atributo obsoleto `frameborder` nos iframes, substituição de seções vazias por blocos `div` e correção da hierarquia de títulos (`h3` para `h2`).
+  
+- **`docs: documentação completa do repositório`**: Escrita e consolidação deste arquivo `README.md` detalhando as tecnologias, estrutura de pastas e histórico de versionamento para fins de avaliação acadêmica.
+
+---
+
 ## 📁 Estrutura do Repositório
 
 ```text
@@ -40,3 +62,4 @@ Este é o repositório do meu portfólio profissional e pessoal, desenvolvido co
 ├── script.js           # Código inteligente do modo escuro e saudações horárias
 ├── fotoEu.png          # Minha foto de perfil
 └── README.md           # Documentação completa do projeto (este arquivo)
+
