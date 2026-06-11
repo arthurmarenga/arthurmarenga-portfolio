@@ -32,19 +32,19 @@ Este é o repositório do meu portfólio profissional e pessoal, desenvolvido co
 
 ##Histórico de Versões:
 
-###🟠 Versão 1.0.0 - Estrutura Base:
+### 🟠 Versão 1.0.0 - Estrutura Base:
 
 - **`feat: estrutura inicial e páginas base`**: Criação dos arquivos HTML fundamentais (`index.html`, `sobreeu.html`, `projetosmeus.html`) estabelecendo a navegação do menu global.
   
 - **`feat: estilização responsiva e identidade visual`**: Desenvolvimento do arquivo `style.css`, configurando o reset de margens, layout flexível (Flexbox) para o cabeçalho e o rodapé além da paleta de cores padrão.
 
-###🟠 Versão 1.1.0 - Interatividade e Temas:
+### 🟠 Versão 1.1.0 - Interatividade e Temas:
 
 - **`feat: implementação do dark mode e persistência`**: Inclusão da lógica em JavaScript (`script.js`) para alternar as classes de tema visual e salvar a preferência do usuário no `localStorage` do navegador.
   
 - **`feat: saudação inteligente baseada no horário`**: Adicionado script na Home que lê o horário local do sistema para saudar o visitante dinamicamente (Bom dia/Boa tarde/Boa noite).
 
-###🟠 Versão 1.2.0 - Refatoração Semântica e Ajustes Finais:
+### 🟠 Versão 1.2.0 - Refatoração Semântica e Ajustes Finais:
 
 - **`fix: validação oficial W3C e eliminação de erros`**: Correção de inconformidades apontadas pelo *Markup Validation Service* na página Sobre Mim. Remoção do atributo obsoleto `frameborder` nos iframes, substituição de seções vazias por blocos `div` e correção da hierarquia de títulos (`h3` para `h2`).
   
