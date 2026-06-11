@@ -30,7 +30,7 @@ Este é o repositório do meu portfólio profissional e pessoal, desenvolvido co
 
 ---
 
-##Histórico de Versões:
+## Histórico de Versões:
 
 ### 🟠 Versão 1.0.0 - Estrutura Base:
 
