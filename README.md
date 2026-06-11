@@ -4,7 +4,7 @@
 
 Este é o repositório do meu portfólio profissional e pessoal, desenvolvido como estudante do primeiro período de **Ciência da Computação na CESAR School**. O grande e principal objetivo deste projeto é consolidar meus conhecimentos em desenvolvimento web (Front-end) e servir como uma vitrine para os meus futuros projetos acadêmicos e profissionais. 🎯
 
-🌐 **Link do projeto online:** *?*
+🌐 **Link do projeto online:** *https://arthurmarenga-portfolio.vercel.app/*
 
 ---
 
